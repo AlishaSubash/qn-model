@@ -1,0 +1,23 @@
+  0%|                                                                                         | 0/186 [00:00<?, ?it/s]D:\res_ponse_model\gloss-qna\venv\Lib\site-packages\torch\utils\data\dataloader.py:668: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+100%|███████████████████████████████████████████████████████████████████████████████| 186/186 [30:03<00:00,  9.69s/it]
+{'loss': 5.6588, 'grad_norm': 4.883907794952393, 'learning_rate': 0.00028548387096774194, 'epoch': 0.16}
+{'loss': 0.4249, 'grad_norm': 0.7468060851097107, 'learning_rate': 0.0002693548387096774, 'epoch': 0.32}
+{'loss': 0.1728, 'grad_norm': 0.4491565525531769, 'learning_rate': 0.0002532258064516129, 'epoch': 0.48}
+{'loss': 0.1217, 'grad_norm': 0.3069292902946472, 'learning_rate': 0.00023709677419354836, 'epoch': 0.65}
+{'loss': 0.1062, 'grad_norm': 0.2461414784193039, 'learning_rate': 0.00022096774193548386, 'epoch': 0.81}
+{'loss': 0.0969, 'grad_norm': 0.3603314757347107, 'learning_rate': 0.0002048387096774193, 'epoch': 0.97}
+{'loss': 0.0866, 'grad_norm': 0.2924090027809143, 'learning_rate': 0.0001887096774193548, 'epoch': 1.13}
+{'loss': 0.0824, 'grad_norm': 0.21047553420066833, 'learning_rate': 0.0001725806451612903, 'epoch': 1.29}
+{'loss': 0.0702, 'grad_norm': 0.4399556517601013, 'learning_rate': 0.00015645161290322578, 'epoch': 1.45}
+{'loss': 0.0648, 'grad_norm': 0.18402473628520966, 'learning_rate': 0.00014032258064516128, 'epoch': 1.61}
+{'loss': 0.0564, 'grad_norm': 0.19398902356624603, 'learning_rate': 0.00012419354838709678, 'epoch': 1.77}
+{'loss': 0.0514, 'grad_norm': 0.30232876539230347, 'learning_rate': 0.00010806451612903225, 'epoch': 1.94}
+{'loss': 0.0527, 'grad_norm': 0.196987122297287, 'learning_rate': 9.193548387096774e-05, 'epoch': 2.1}
+{'loss': 0.0479, 'grad_norm': 0.17085903882980347, 'learning_rate': 7.580645161290321e-05, 'epoch': 2.26}
+{'loss': 0.046, 'grad_norm': 0.2753101587295532, 'learning_rate': 5.96774193548387e-05, 'epoch': 2.42}
+{'loss': 0.0494, 'grad_norm': 0.1342419534921646, 'learning_rate': 4.3548387096774194e-05, 'epoch': 2.58}
+{'loss': 0.0499, 'grad_norm': 0.21172282099723816, 'learning_rate': 2.7419354838709674e-05, 'epoch': 2.74}
+{'loss': 0.0507, 'grad_norm': 0.23724155128002167, 'learning_rate': 1.129032258064516e-05, 'epoch': 2.9}
+{'train_runtime': 1810.4771, 'train_samples_per_second': 0.205, 'train_steps_per_second': 0.103, 'train_loss': 0.3933071039056265, 'epoch': 3.0}
+✅ SENT → GLOSS MODEL TRAINED SUCCESSFULLY

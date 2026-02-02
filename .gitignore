@@ -1,0 +1,11 @@
+# model checkpoints
+checkpoint-*/
+models/**/checkpoint-*/
+*.bin
+*.pt
+*.ckpt
+*.safetensors
+
+# python cache
+__pycache__/
+*.pyc

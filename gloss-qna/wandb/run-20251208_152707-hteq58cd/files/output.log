@@ -1,0 +1,18 @@
+  0%|                                                                                                 | 0/93 [00:00<?, ?it/s]C:\Users\agnus\AppData\Local\Programs\Python\Python314\Lib\site-packages\torch\utils\data\dataloader.py:668: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+ 33%|█████████████████████████████▎                                                          | 31/93 [01:48<03:27,  3.34s/it]C:\Users\agnus\AppData\Local\Programs\Python\Python314\Lib\site-packages\torch\utils\data\dataloader.py:668: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+{'loss': 10.7396, 'grad_norm': 68.38619995117188, 'learning_rate': 4.516129032258064e-05, 'epoch': 0.32}
+{'loss': 7.4889, 'grad_norm': 61.79812240600586, 'learning_rate': 3.978494623655914e-05, 'epoch': 0.65}
+{'loss': 4.4015, 'grad_norm': 34.85818099975586, 'learning_rate': 3.4408602150537636e-05, 'epoch': 0.97}
+  warnings.warn(warn_msg)
+ 67%|██████████████████████████████████████████████████████████▋                             | 62/93 [03:37<01:54,  3.68s/it]C:\Users\agnus\AppData\Local\Programs\Python\Python314\Lib\site-packages\torch\utils\data\dataloader.py:668: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+{'loss': 2.963, 'grad_norm': 89.82154083251953, 'learning_rate': 2.9032258064516133e-05, 'epoch': 1.29}
+{'loss': 1.6962, 'grad_norm': 4.7672600746154785, 'learning_rate': 2.3655913978494626e-05, 'epoch': 1.61}
+{'loss': 1.2744, 'grad_norm': 6.588943004608154, 'learning_rate': 1.827956989247312e-05, 'epoch': 1.94}
+  warnings.warn(warn_msg)
+100%|████████████████████████████████████████████████████████████████████████████████████████| 93/93 [05:21<00:00,  3.46s/it]
+{'loss': 1.3875, 'grad_norm': 6.542463779449463, 'learning_rate': 1.2903225806451613e-05, 'epoch': 2.26}
+{'loss': 1.186, 'grad_norm': 3.5805389881134033, 'learning_rate': 7.526881720430108e-06, 'epoch': 2.58}
+{'loss': 1.0364, 'grad_norm': 2.906038284301758, 'learning_rate': 2.1505376344086023e-06, 'epoch': 2.9}
+{'train_runtime': 1061.503, 'train_samples_per_second': 0.35, 'train_steps_per_second': 0.088, 'train_loss': 3.4867996631130094, 'epoch': 3.0}
+✅ English → Gloss model trained successfully

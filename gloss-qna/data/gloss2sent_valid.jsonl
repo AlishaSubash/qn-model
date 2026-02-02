@@ -1,0 +1,120 @@
+{"input":"WHAT SUN","output":"What is the Sun?"}
+{"input":"WHAT MOON","output":"What is the Moon?"}
+{"input":"WHAT STAR","output":"What is a star?"}
+{"input":"WHAT PLANET","output":"What is a planet?"}
+{"input":"WHAT SOLAR SYSTEM","output":"What is the solar system?"}
+{"input":"WHAT GALAXY","output":"What is a galaxy?"}
+{"input":"WHAT MILKY WAY","output":"What is the Milky Way?"}
+{"input":"WHAT UNIVERSE","output":"What is the universe?"}
+{"input":"WHAT ASTEROID","output":"What is an asteroid?"}
+{"input":"WHAT COMET","output":"What is a comet?"}
+
+{"input":"WHAT WATER","output":"What is water?"}
+{"input":"WHAT AIR","output":"What is air?"}
+{"input":"WHAT OXYGEN","output":"What is oxygen?"}
+{"input":"WHAT HYDROGEN","output":"What is hydrogen?"}
+{"input":"WHAT CARBON","output":"What is carbon?"}
+{"input":"WHAT NITROGEN","output":"What is nitrogen?"}
+{"input":"WHAT ATMOSPHERE","output":"What is the atmosphere?"}
+{"input":"WHAT CLIMATE","output":"What is climate?"}
+{"input":"WHAT WEATHER","output":"What is weather?"}
+{"input":"WHAT RAIN","output":"What is rain?"}
+
+{"input":"WHAT PLANT","output":"What is a plant?"}
+{"input":"WHAT TREE","output":"What is a tree?"}
+{"input":"WHAT FLOWER","output":"What is a flower?"}
+{"input":"WHAT LEAF","output":"What is a leaf?"}
+{"input":"WHAT ROOT","output":"What is a root?"}
+{"input":"WHAT PHOTOSYNTHESIS","output":"What is photosynthesis?"}
+{"input":"WHAT SEED","output":"What is a seed?"}
+{"input":"WHAT FRUIT","output":"What is a fruit?"}
+{"input":"WHAT VEGETABLE","output":"What is a vegetable?"}
+{"input":"WHAT CROP","output":"What is a crop?"}
+
+{"input":"WHAT ANIMAL","output":"What is an animal?"}
+{"input":"WHAT MAMMAL","output":"What is a mammal?"}
+{"input":"WHAT BIRD","output":"What is a bird?"}
+{"input":"WHAT FISH","output":"What is a fish?"}
+{"input":"WHAT REPTILE","output":"What is a reptile?"}
+{"input":"WHAT AMPHIBIAN","output":"What is an amphibian?"}
+{"input":"WHAT INSECT","output":"What is an insect?"}
+{"input":"WHAT HERBIVORE","output":"What is a herbivore?"}
+{"input":"WHAT CARNIVORE","output":"What is a carnivore?"}
+{"input":"WHAT OMNIVORE","output":"What is an omnivore?"}
+
+{"input":"WHAT HUMAN","output":"What is a human?"}
+{"input":"WHAT BRAIN","output":"What is the brain?"}
+{"input":"WHAT HEART","output":"What is the heart?"}
+{"input":"WHAT LUNG","output":"What are lungs?"}
+{"input":"WHAT BLOOD","output":"What is blood?"}
+{"input":"WHAT BONE","output":"What is a bone?"}
+{"input":"WHAT MUSCLE","output":"What is a muscle?"}
+{"input":"WHAT DIGESTION","output":"What is digestion?"}
+{"input":"WHAT RESPIRATION","output":"What is respiration?"}
+{"input":"WHAT CIRCULATION","output":"What is circulation?"}
+
+{"input":"WHAT COMPUTER","output":"What is a computer?"}
+{"input":"WHAT SOFTWARE","output":"What is software?"}
+{"input":"WHAT HARDWARE","output":"What is hardware?"}
+{"input":"WHAT INTERNET","output":"What is the internet?"}
+{"input":"WHAT WEBSITE","output":"What is a website?"}
+{"input":"WHAT APPLICATION","output":"What is an application?"}
+{"input":"WHAT DATABASE","output":"What is a database?"}
+{"input":"WHAT NETWORK","output":"What is a network?"}
+{"input":"WHAT SERVER","output":"What is a server?"}
+{"input":"WHAT CLOUD COMPUTING","output":"What is cloud computing?"}
+
+{"input":"WHAT AI","output":"What is artificial intelligence?"}
+{"input":"WHAT MACHINE LEARNING","output":"What is machine learning?"}
+{"input":"WHAT DEEP LEARNING","output":"What is deep learning?"}
+{"input":"WHAT DATA","output":"What is data?"}
+{"input":"WHAT ALGORITHM","output":"What is an algorithm?"}
+{"input":"WHAT MODEL","output":"What is a model?"}
+{"input":"WHAT TRAINING DATA","output":"What is training data?"}
+{"input":"WHAT NEURAL NETWORK","output":"What is a neural network?"}
+{"input":"WHAT NLP","output":"What is natural language processing?"}
+{"input":"WHAT COMPUTER VISION","output":"What is computer vision?"}
+
+{"input":"WHAT SCHOOL","output":"What is a school?"}
+{"input":"WHAT EDUCATION","output":"What is education?"}
+{"input":"WHAT TEACHER","output":"What is a teacher?"}
+{"input":"WHAT STUDENT","output":"What is a student?"}
+{"input":"WHAT EXAM","output":"What is an exam?"}
+{"input":"WHAT SYLLABUS","output":"What is a syllabus?"}
+{"input":"WHAT SUBJECT","output":"What is a subject?"}
+{"input":"WHAT HOMEWORK","output":"What is homework?"}
+{"input":"WHAT DEGREE","output":"What is a degree?"}
+{"input":"WHAT UNIVERSITY","output":"What is a university?"}
+
+{"input":"WHAT COUNTRY","output":"What is a country?"}
+{"input":"WHAT STATE","output":"What is a state?"}
+{"input":"WHAT CITY","output":"What is a city?"}
+{"input":"WHAT VILLAGE","output":"What is a village?"}
+{"input":"WHAT GOVERNMENT","output":"What is a government?"}
+{"input":"WHAT DEMOCRACY","output":"What is democracy?"}
+{"input":"WHAT CONSTITUTION","output":"What is a constitution?"}
+{"input":"WHAT LAW","output":"What is a law?"}
+{"input":"WHAT ELECTION","output":"What is an election?"}
+{"input":"WHAT CITIZEN","output":"What is a citizen?"}
+
+{"input":"WHAT MONEY","output":"What is money?"}
+{"input":"WHAT BANK","output":"What is a bank?"}
+{"input":"WHAT SAVINGS","output":"What are savings?"}
+{"input":"WHAT INVESTMENT","output":"What is investment?"}
+{"input":"WHAT ECONOMY","output":"What is the economy?"}
+{"input":"WHAT INCOME","output":"What is income?"}
+{"input":"WHAT EXPENSE","output":"What is an expense?"}
+{"input":"WHAT TAX","output":"What is tax?"}
+{"input":"WHAT PROFIT","output":"What is profit?"}
+{"input":"WHAT LOSS","output":"What is loss?"}
+
+{"input":"WHAT ENERGY","output":"What is energy?"}
+{"input":"WHAT ELECTRICITY","output":"What is electricity?"}
+{"input":"WHAT POWER","output":"What is power?"}
+{"input":"WHAT FORCE","output":"What is force?"}
+{"input":"WHAT MOTION","output":"What is motion?"}
+{"input":"WHAT GRAVITY","output":"What is gravity?"}
+{"input":"WHAT SPEED","output":"What is speed?"}
+{"input":"WHAT VELOCITY","output":"What is velocity?"}
+{"input":"WHAT ACCELERATION","output":"What is acceleration?"}
+{"input":"WHAT PRESSURE","output":"What is pressure?"}

@@ -1,0 +1,24 @@
+{
+  "os":  "Windows-11-10.0.26100-SP0",
+  "python":  "CPython 3.14.1",
+  "startedAt":  "2025-12-08T09:57:07.931729Z",
+  "program":  "D:\\res_ponse_model\\gloss-qna\\src\\train_sent2gloss.py",
+  "codePath":  "src\\train_sent2gloss.py",
+  "codePathLocal":  "src\\train_sent2gloss.py",
+  "email":  "agnusroy2003@gmail.com",
+  "root":  "D:\\res_ponse_model\\gloss-qna",
+  "host":  "PIKACHU",
+  "executable":  "C:\\Users\\agnus\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+  "cpu_count":  10,
+  "cpu_count_logical":  12,
+  "disk":  {
+    "/":  {
+      "total":  "144070144000",
+      "used":  "19536551936"
+    }
+  },
+  "memory":  {
+    "total":  "8245334016"
+  },
+  "writerId":  "trruhehoyc51p5vghjgqaqo0cq2prptb"
+}

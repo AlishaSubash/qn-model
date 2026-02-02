@@ -1,0 +1,112 @@
+{"input":"The Sun is a source of energy.","output":"SUN SOURCE ENERGY"}
+{"input":"Stars produce light through nuclear reactions.","output":"STAR PRODUCE LIGHT NUCLEAR REACTION"}
+{"input":"The Moon orbits the Earth.","output":"MOON ORBIT EARTH"}
+{"input":"Astronomy studies celestial objects.","output":"ASTRONOMY STUDY CELESTIAL OBJECT"}
+{"input":"Satellites help in communication.","output":"SATELLITE HELP COMMUNICATION"}
+
+{"input":"Electric current flows in a circuit.","output":"ELECTRIC CURRENT FLOW CIRCUIT"}
+{"input":"Voltage controls electric flow.","output":"VOLTAGE CONTROL ELECTRIC FLOW"}
+{"input":"Resistance opposes current.","output":"RESISTANCE OPPOSE CURRENT"}
+{"input":"Magnets attract iron.","output":"MAGNET ATTRACT IRON"}
+{"input":"Renewable energy reduces pollution.","output":"RENEWABLE ENERGY REDUCE POLLUTION"}
+
+{"input":"Engineering applies scientific principles.","output":"ENGINEERING APPLY SCIENTIFIC PRINCIPLE"}
+{"input":"Bridges support heavy loads.","output":"BRIDGE SUPPORT HEAVY LOAD"}
+{"input":"Machines reduce human effort.","output":"MACHINE REDUCE HUMAN EFFORT"}
+{"input":"Robotics combines hardware and software.","output":"ROBOTICS COMBINE HARDWARE SOFTWARE"}
+{"input":"Automation increases efficiency.","output":"AUTOMATION INCREASE EFFICIENCY"}
+
+{"input":"Medicine treats diseases.","output":"MEDICINE TREAT DISEASE"}
+{"input":"Surgeons perform operations.","output":"SURGEON PERFORM OPERATION"}
+{"input":"Diagnosis identifies illness.","output":"DIAGNOSIS IDENTIFY ILLNESS"}
+{"input":"Antibiotics kill bacteria.","output":"ANTIBIOTIC KILL BACTERIA"}
+{"input":"Hospitals provide healthcare.","output":"HOSPITAL PROVIDE HEALTHCARE"}
+
+{"input":"Law maintains social order.","output":"LAW MAINTAIN SOCIAL ORDER"}
+{"input":"Courts deliver justice.","output":"COURT DELIVER JUSTICE"}
+{"input":"Judges interpret laws.","output":"JUDGE INTERPRET LAW"}
+{"input":"Rights protect individuals.","output":"RIGHT PROTECT INDIVIDUAL"}
+{"input":"Punishment discourages crime.","output":"PUNISHMENT DISCOURAGE CRIME"}
+
+{"input":"Psychology studies human behavior.","output":"PSYCHOLOGY STUDY HUMAN BEHAVIOR"}
+{"input":"Memory stores information.","output":"MEMORY STORE INFORMATION"}
+{"input":"Emotions influence decisions.","output":"EMOTION INFLUENCE DECISION"}
+{"input":"Learning changes behavior.","output":"LEARNING CHANGE BEHAVIOR"}
+{"input":"Motivation drives actions.","output":"MOTIVATION DRIVE ACTION"}
+
+{"input":"Education develops knowledge.","output":"EDUCATION DEVELOP KNOWLEDGE"}
+{"input":"Teachers guide students.","output":"TEACHER GUIDE STUDENT"}
+{"input":"Examinations assess learning.","output":"EXAMINATION ASSESS LEARNING"}
+{"input":"Schools shape future citizens.","output":"SCHOOL SHAPE FUTURE CITIZEN"}
+{"input":"Literacy improves society.","output":"LITERACY IMPROVE SOCIETY"}
+
+{"input":"Agriculture provides food.","output":"AGRICULTURE PROVIDE FOOD"}
+{"input":"Farmers grow crops.","output":"FARMER GROW CROP"}
+{"input":"Irrigation supports farming.","output":"IRRIGATION SUPPORT FARMING"}
+{"input":"Fertilizers increase yield.","output":"FERTILIZER INCREASE YIELD"}
+{"input":"Soil fertility affects crops.","output":"SOIL FERTILITY AFFECT CROP"}
+
+{"input":"Technology changes lifestyles.","output":"TECHNOLOGY CHANGE LIFESTYLE"}
+{"input":"Mobile phones enable communication.","output":"MOBILE PHONE ENABLE COMMUNICATION"}
+{"input":"Applications solve problems.","output":"APPLICATION SOLVE PROBLEM"}
+{"input":"Innovation drives progress.","output":"INNOVATION DRIVE PROGRESS"}
+{"input":"Digital systems store data.","output":"DIGITAL SYSTEM STORE DATA"}
+
+{"input":"Weather forecasting predicts climate.","output":"WEATHER FORECAST PREDICT CLIMATE"}
+{"input":"Natural disasters cause destruction.","output":"NATURAL DISASTER CAUSE DESTRUCTION"}
+{"input":"Earthquakes result from tectonic shifts.","output":"EARTHQUAKE RESULT TECTONIC SHIFT"}
+{"input":"Floods damage infrastructure.","output":"FLOOD DAMAGE INFRASTRUCTURE"}
+{"input":"Preparedness reduces disaster impact.","output":"PREPAREDNESS REDUCE DISASTER IMPACT"}
+
+{"input":"Transportation enables movement.","output":"TRANSPORTATION ENABLE MOVEMENT"}
+{"input":"Roads connect cities.","output":"ROAD CONNECT CITY"}
+{"input":"Air travel saves time.","output":"AIR TRAVEL SAVE TIME"}
+{"input":"Logistics manage supply chains.","output":"LOGISTICS MANAGE SUPPLY CHAIN"}
+{"input":"Public transport reduces traffic.","output":"PUBLIC TRANSPORT REDUCE TRAFFIC"}
+{"input":"Atoms are the building blocks of matter.","output":"ATOM BUILDING BLOCK MATTER"}
+{"input":"Chemical reactions change substances.","output":"CHEMICAL REACTION CHANGE SUBSTANCE"}
+{"input":"Acids react with bases.","output":"ACID REACT BASE"}
+{"input":"Periodic table organizes elements.","output":"PERIODIC TABLE ORGANIZE ELEMENT"}
+{"input":"Catalysts speed up reactions.","output":"CATALYST SPEED REACTION"}
+
+{"input":"Mathematics solves numerical problems.","output":"MATHEMATICS SOLVE NUMERICAL PROBLEM"}
+{"input":"Algebra uses symbols.","output":"ALGEBRA USE SYMBOL"}
+{"input":"Geometry studies shapes.","output":"GEOMETRY STUDY SHAPE"}
+{"input":"Calculus analyzes change.","output":"CALCULUS ANALYZE CHANGE"}
+{"input":"Statistics interprets data.","output":"STATISTICS INTERPRET DATA"}
+
+{"input":"Computer science studies computation.","output":"COMPUTER SCIENCE STUDY COMPUTATION"}
+{"input":"Algorithms solve tasks.","output":"ALGORITHM SOLVE TASK"}
+{"input":"Programming writes instructions.","output":"PROGRAMMING WRITE INSTRUCTION"}
+{"input":"Databases store information.","output":"DATABASE STORE INFORMATION"}
+{"input":"Cybersecurity protects systems.","output":"CYBERSECURITY PROTECT SYSTEM"}
+
+{"input":"Geography studies Earth features.","output":"GEOGRAPHY STUDY EARTH FEATURE"}
+{"input":"Maps represent locations.","output":"MAP REPRESENT LOCATION"}
+{"input":"Rivers flow into oceans.","output":"RIVER FLOW OCEAN"}
+{"input":"Mountains affect climate.","output":"MOUNTAIN AFFECT CLIMATE"}
+{"input":"Latitude measures distance.","output":"LATITUDE MEASURE DISTANCE"}
+
+{"input":"Economics studies production.","output":"ECONOMICS STUDY PRODUCTION"}
+{"input":"Demand affects price.","output":"DEMAND AFFECT PRICE"}
+{"input":"Inflation reduces purchasing power.","output":"INFLATION REDUCE PURCHASING POWER"}
+{"input":"Trade connects nations.","output":"TRADE CONNECT NATION"}
+{"input":"Banks manage money.","output":"BANK MANAGE MONEY"}
+
+{"input":"Political science studies government.","output":"POLITICAL SCIENCE STUDY GOVERNMENT"}
+{"input":"Democracy allows voting.","output":"DEMOCRACY ALLOW VOTING"}
+{"input":"Constitutions define laws.","output":"CONSTITUTION DEFINE LAW"}
+{"input":"Elections choose leaders.","output":"ELECTION CHOOSE LEADER"}
+{"input":"Policies guide governance.","output":"POLICY GUIDE GOVERNANCE"}
+
+{"input":"Sociology studies society.","output":"SOCIOLOGY STUDY SOCIETY"}
+{"input":"Culture shapes behavior.","output":"CULTURE SHAPE BEHAVIOR"}
+{"input":"Social norms guide actions.","output":"SOCIAL NORM GUIDE ACTION"}
+{"input":"Family influences values.","output":"FAMILY INFLUENCE VALUE"}
+{"input":"Institutions maintain order.","output":"INSTITUTION MAINTAIN ORDER"}
+
+{"input":"Environmental studies protect nature.","output":"ENVIRONMENTAL STUDY PROTECT NATURE"}
+{"input":"Pollution harms ecosystems.","output":"POLLUTION HARM ECOSYSTEM"}
+{"input":"Conservation saves resources.","output":"CONSERVATION SAVE RESOURCE"}
+{"input":"Recycling reduces waste.","output":"RECYCLING REDUCE WASTE"}
+{"input":"Sustainability ensures future needs.","output":"SUSTAINABILITY ENSURE FUTURE NEED"}

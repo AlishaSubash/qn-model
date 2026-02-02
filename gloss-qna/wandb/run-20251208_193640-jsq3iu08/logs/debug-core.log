@@ -1,0 +1,16 @@
+{"time":"2025-12-08T19:36:41.1782396+05:30","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\agnus\\AppData\\Local\\Temp\\tmptgzzqnel\\port-9664.txt","pid":9664,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-12-08T19:36:41.1885206+05:30","level":"INFO","msg":"server: will exit if parent process dies","ppid":9664}
+{"time":"2025-12-08T19:36:41.1885206+05:30","level":"INFO","msg":"server: accepting connections","addr":{"Name":"C:\\Users\\agnus\\AppData\\Local\\Temp\\wandb-9664-21068-120246640\\socket","Net":"unix"}}
+{"time":"2025-12-08T19:36:41.1885206+05:30","level":"INFO","msg":"server: accepting connections","addr":{"IP":"127.0.0.1","Port":53229,"Zone":""}}
+{"time":"2025-12-08T19:36:43.427215+05:30","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(127.0.0.1:49956)"}
+{"time":"2025-12-08T19:36:43.5168654+05:30","level":"INFO","msg":"handleInformInit: received","streamId":"jsq3iu08","id":"1(127.0.0.1:49956)"}
+{"time":"2025-12-08T19:36:44.8514449+05:30","level":"INFO","msg":"handleInformInit: stream started","streamId":"jsq3iu08","id":"1(127.0.0.1:49956)"}
+{"time":"2025-12-08T20:06:50.408943+05:30","level":"INFO","msg":"handleInformTeardown: server teardown initiated","id":"1(127.0.0.1:49956)"}
+{"time":"2025-12-08T20:06:50.411803+05:30","level":"INFO","msg":"connection: closing","id":"1(127.0.0.1:49956)"}
+{"time":"2025-12-08T20:06:50.4142178+05:30","level":"INFO","msg":"connection: closed successfully","id":"1(127.0.0.1:49956)"}
+{"time":"2025-12-08T20:06:50.411803+05:30","level":"INFO","msg":"server is shutting down"}
+{"time":"2025-12-08T20:06:50.4225641+05:30","level":"INFO","msg":"server: listener closed","addr":{"Name":"C:\\Users\\agnus\\AppData\\Local\\Temp\\wandb-9664-21068-120246640\\socket","Net":"unix"}}
+{"time":"2025-12-08T20:06:50.4225641+05:30","level":"INFO","msg":"server: listener closed","addr":{"IP":"127.0.0.1","Port":53229,"Zone":""}}
+{"time":"2025-12-08T20:06:53.1891227+05:30","level":"INFO","msg":"handleInformTeardown: server shutdown complete","id":"1(127.0.0.1:49956)"}
+{"time":"2025-12-08T20:06:53.1896594+05:30","level":"INFO","msg":"connection: ManageConnectionData: connection closed","id":"1(127.0.0.1:49956)"}
+{"time":"2025-12-08T20:06:53.1896594+05:30","level":"INFO","msg":"server is closed"}
