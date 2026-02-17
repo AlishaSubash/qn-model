@@ -1,4 +1,14 @@
-# model checkpoints
+# Environment variables (CONTAINS API KEYS - NEVER COMMIT)
+.env
+.env.local
+.env.*.local
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Model checkpoints
 checkpoint-*/
 models/**/checkpoint-*/
 *.bin
@@ -6,6 +16,29 @@ models/**/checkpoint-*/
 *.ckpt
 *.safetensors
 
-# python cache
+# Python cache
 __pycache__/
 *.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# wandb
+wandb/offline-run-*/
+wandb/run-*/
